@@ -24,4 +24,5 @@ const Require3 = () => {
 
 const Require4 = () => {
   console.log('Require5');
+  console.log('aaa');
 };
