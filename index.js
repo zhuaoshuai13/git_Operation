@@ -17,3 +17,7 @@ const Require2 = () => {
   console.log('Require2');
   console.log('调整');
 };
+
+const Require3 = () => {
+  console.log('Require3');
+};
