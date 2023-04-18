@@ -31,3 +31,7 @@ const Require5 = () => {
   console.log('a');
   console.log('Require5');
 };
+
+const Require6 = () => {
+  console.log('Require6');
+};
