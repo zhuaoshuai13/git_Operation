@@ -43,3 +43,7 @@ const Require7 = () => {
 const Require8 = () => {
   console.log('Require8');
 };
+
+const Require9 = () => {
+  console.log('Require9');
+};
