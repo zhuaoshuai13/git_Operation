@@ -31,3 +31,19 @@ const Require5 = () => {
   console.log('a');
   console.log('Require5');
 };
+
+const Require6 = () => {
+  console.log('Require6');
+};
+
+const Require7 = () => {
+  console.log('Require7');
+};
+
+const Require8 = () => {
+  console.log('Require8');
+};
+
+const Require9 = () => {
+  console.log('Require9');
+};
